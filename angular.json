@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mukeshlovessneha"
+    }
+  },
+  "defaultProject": "mukeshlovessneha",
+  "cli": {
+    "analytics": "312951e1-f398-4023-a05b-70bcca2b849c"
+  }
 }
